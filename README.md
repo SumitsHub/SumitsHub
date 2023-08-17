@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Sumit Pravash Paul
-- My tech stack currently include following:
+- 👋 Hi, I’m Sumit, I'm professional Front-end developer
+- My tech stack currently includes following:
    - ReactJS
    - NextJS
    - NodeJS
@@ -8,7 +8,7 @@
    - JavaScript
    - Bootstrap
    - MaterialUI/SemanticUI
-- Reach me out at: <pauls1317@gmail.com>
+- Reach me at: <pauls1317@gmail.com>
 
 <!---
 SumitsHub/SumitsHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
