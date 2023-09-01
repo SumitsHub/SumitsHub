@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Sumit, I'm professional Front-end developer
-- My tech stack currently includes following:
-   - ReactJS
+- 👋 Hi, I’m Sumit, I'm a professional web developer
+- My tech stack currently includes the following:
+   - React
    - NextJS
-   - NodeJS
+   - React Native
+   - GraphQL
+   - Node
    - Express
    - MongoDB
    - JavaScript
