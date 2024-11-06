@@ -2,14 +2,15 @@
 - My tech stack currently includes the following:
    - React
    - NextJS
-   - React Native
+   - AWS
    - GraphQL
    - Node
    - Express
    - MongoDB
    - JavaScript
+   - TypeScript
    - Bootstrap
-   - MaterialUI/SemanticUI
+   - MaterialUI/Tailwind
 - Reach me at: <pauls1317@gmail.com>
 
 <!---
